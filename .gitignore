@@ -1,0 +1,4 @@
+myvenv
+--pycache--/
+*.dbsqlike3
+*.pyc
